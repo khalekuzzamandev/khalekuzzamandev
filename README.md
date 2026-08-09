@@ -117,7 +117,7 @@
     <img src="https://img.shields.io/badge/LEETCODE-C56A00?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=C56A00" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.hackerrank.com/profile/muradvcv" target="_blank">
     <img src="https://img.shields.io/badge/HACKERRANK-1B5E20?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1B5E20" alt="HackerRank"/>
   </a>
 </p>
