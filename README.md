@@ -22,7 +22,7 @@
 
 <td width="65%" valign="top">
 
-💼 <strong>Currently Working:</strong> Full Stack Developer Intern at <strong>BD Calling</strong>, building full-stack web applications with React.js, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL.
+💼 <strong>Currently Working:</strong> Full Stack Developer Intern at <strong>BD Calling</strong>, building full-stack web applications with React.js, Next.js, Node.js, Express.js, and working with SQL databases, including PostgreSQL.
 
 📚 <strong>Learning:</strong> Backend Development, Authentication, Database Design & System Design.
 
