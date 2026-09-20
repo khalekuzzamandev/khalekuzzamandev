@@ -17,6 +17,8 @@
 ---
 ## 🧑‍💻 About Me
 
+<table align="center">
+<tr>
 
 <td width="65%" valign="top">
 
