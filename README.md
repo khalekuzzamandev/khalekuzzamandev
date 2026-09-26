@@ -1,10 +1,14 @@
-<!-- 🌐 GO TO PORTFOLIO -->
+<!-- 🌐 PORTFOLIO -->
 
-<p align="left">
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/GO%20TO%20PORTFOLIO-DC2F02?style=for-the-badge&logo=vercel&logoColor=white" alt="Go To Portfolio"/>
+<p align="center">
+  <a href="https://khalekuzzaman.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Visit My Portfolio"
+    />
   </a>
 </p>
+
 <p align="center">
   <img src="https://i.ibb.co.com/nv5XFKH/Chat-GPT-Image-Jul-9-2026-08-52-10-PM.png" alt="Banner" width="1000">
 </p>
