@@ -16,7 +16,6 @@
 </tr>
 </table>
 
----
 
 <p align="center">
   <img src="https://i.ibb.co.com/nv5XFKH/Chat-GPT-Image-Jul-9-2026-08-52-10-PM.png" alt="Banner" width="1000">
