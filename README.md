@@ -1,7 +1,9 @@
-<!-- 👁️ PROFILE VIEWS (TOP MOST) -->
+<!-- 🌐 GO TO PORTFOLIO -->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=khalekuzzamandev&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/GO%20TO%20PORTFOLIO-DC2F02?style=for-the-badge&logo=vercel&logoColor=white" alt="Go To Portfolio"/>
+  </a>
 </p>
 <p align="center">
   <img src="https://i.ibb.co.com/nv5XFKH/Chat-GPT-Image-Jul-9-2026-08-52-10-PM.png" alt="Banner" width="1000">
