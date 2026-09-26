@@ -47,60 +47,35 @@
 ## 💻 Technologies
 <p align="center">
 
-<!-- Row 1 -->
+<!-- Frontend -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<br/>
-
-<!-- Row 2 -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/HeroUI-0F172A?style=for-the-badge&logo=react&logoColor=white" />
 <br/>
 
-<!-- Row 3 -->
+<!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<br/>
+
+<!-- Database -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<br/>
+
+<!-- Authentication -->
 <img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
-</p>
-
-## Others Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-
 <br/>
 
-<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/DaisyUI-0d1117?style=for-the-badge&logo=daisyui&logoColor=5A0EF8" />
-<img src="https://img.shields.io/badge/HeroUI-0d1117?style=for-the-badge&logo=react&logoColor=white" />
-<br/>
-
-<img src="https://img.shields.io/badge/React_Toastify-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React_Tabs-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React_Spinners-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Date--Fns-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Google_Fonts-0d1117?style=for-the-badge&logo=googlefonts&logoColor=4285F4" />
-<img src="https://img.shields.io/badge/Font_Awesome-0d1117?style=for-the-badge&logo=fontawesome&logoColor=528DD7" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Better_Auth-0d1117?style=for-the-badge&logo=shield&logoColor=00E5FF" />
+<!-- AI -->
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 
 </p>
 
