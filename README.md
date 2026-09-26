@@ -1,16 +1,22 @@
-<!-- 🌐 PORTFOLIO -->
+<table width="100%">
+<tr>
+<td align="left">
 
-<p align="left">
-  <a href="https://khalekuzzaman.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-DC2F02?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="https://khalekuzzaman.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-DC2F02?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-<!-- 👁️ PROFILE VIEWS -->
+</td>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=khalekuzzamandev&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />
-</p>
+<td align="right">
+
+<img src="https://komarev.com/ghpvc/?username=khalekuzzamandev&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />
+
+</td>
+</tr>
+</table>
+
+---
 
 <p align="center">
   <img src="https://i.ibb.co.com/nv5XFKH/Chat-GPT-Image-Jul-9-2026-08-52-10-PM.png" alt="Banner" width="1000">
