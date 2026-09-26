@@ -3,7 +3,7 @@
 <td align="left">
 
 <a href="https://khalekuzzaman.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=4C1D95" alt="Explore My Portfolio"/>
+  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=6D28D9" alt="Explore My Portfolio"/>
 </a>
 
 </td>
