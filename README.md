@@ -8,11 +8,9 @@
 
 </td>
 
-<td align="left">
+<td align="right">
 
-<a href="https://khalekuzzaman.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-0B6B3A?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Portfolio"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=khalekuzzamandev&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" alt="Profile Views"/>
 
 </td>
 </tr>
