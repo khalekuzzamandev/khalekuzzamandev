@@ -1,20 +1,16 @@
-<table width="100%">
-<tr>
-<td align="left">
+<!-- 🌐 PORTFOLIO -->
 
-<a href="https://khalekuzzaman.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-DC2F02?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://khalekuzzaman.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-DC2F02?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-</td>
+<!-- 👁️ PROFILE VIEWS -->
 
-<td align="right">
-
-<img src="https://komarev.com/ghpvc/?username=khalekuzzamandev&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />
-
-</td>
-</tr>
-</table>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=khalekuzzamandev&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" />
+</p>
 
 ---
 
