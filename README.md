@@ -1,3 +1,20 @@
+<table width="100%">
+<tr>
+<td align="left">
+
+<a href="https://khalekuzzaman.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=code&logoColor=581C87&labelColor=581C87" alt="Explore My Portfolio"/>
+</a>
+
+</td>
+
+<td align="right">
+
+<img src="https://komarev.com/ghpvc/?username=khalekuzzamandev&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" alt="Profile Views"/>
+
+</td>
+</tr>
+</table>
 
 
 <p align="center">
