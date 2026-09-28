@@ -36,15 +36,7 @@
 
 <td width="65%" valign="top">
 
-💼 <strong>Currently Working:</strong> Full Stack Developer Intern at <strong>BD Calling</strong>, building full-stack web applications with React.js, Next.js, Node.js, Express.js, SQL, PostgreSQL, and Prisma.
 
-📚 <strong>Learning:</strong> Backend Development, Authentication, Database Design & System Design.
-
-💻 <strong>Ask Me About:</strong> React.js • Next.js • Node.js • Express.js • MongoDB • PostgreSQL • REST APIs • JWT.
-
-🎯 <strong>Focus:</strong> Clean UI • Performance • Scalable Applications • Real-World Development.
-
-🚀 <strong>Goal:</strong> Continuously improving my development skills by working on real-world projects and building production-ready applications.
 
 </td>
 
