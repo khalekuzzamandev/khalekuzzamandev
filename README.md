@@ -10,7 +10,6 @@
 
 <td align="right">
 
-<img src="https://komarev.com/ghpvc/?username=khalekuzzamandev&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" alt="Profile Views"/>
 
 </td>
 </tr>
