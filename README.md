@@ -89,12 +89,12 @@
 <br/>
 
 </p>
----
+
 ## 📊 Current Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=khalekuzzamandev&theme=tokyonight&hide_border=true&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&dates=aaaaaa" />
 </p>
----
+
 ## 💻 Coding Profiles
 
 <p align="center">
