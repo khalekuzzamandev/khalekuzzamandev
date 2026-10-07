@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co.com/nv5XFKH/Chat-GPT-Image-Jul-9-2026-08-52-10-PM.png" alt="Banner" width="1000">
+  <img src="https://i.ibb.co.com/zhpgkjfv/banne.png" alt="Banner" width="1000">
 </p>
 
 <h1 align="center">Hi 👋, I'm Khalekuzzaman Murad</h1>
