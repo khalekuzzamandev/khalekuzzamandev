@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="[https://i.ibb.co.com/zhpgkjfv/banne.png](https://i.ibb.co.com/zhpgkjfv/banne.png)" alt="Banner" width="1000">
+  <img src="https://i.ibb.co.com/zhpgkjfv/banne.png" alt="Banner" width="1000">
 </p>
 
 <h1 align="center">Hi 👋, I'm Khalekuzzaman Murad</h1>
