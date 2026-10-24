@@ -30,7 +30,15 @@
 
 ---
 ## 🧑‍💻 About Me
-<p align="center"> <img src="./assets/about.svg" alt="About Me: Full Stack Developer Intern at BD Calling. Learning backend development, authentication, database design and system design. Focus on clean UI, performance and scalable applications." width="100%"/> </p> <br/> <!-- ============ TECH STACK ============ -->
+## ⚡ About Me
+
+<p align="center">
+  <img src="./assets/about.svg" alt="About Me: Full Stack Developer Intern at BD Calling" width="100%"/>
+</p>
+
+
+
+<!-- ============ TECH STACK ============ -->
 
 ---
 
