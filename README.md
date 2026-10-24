@@ -30,7 +30,6 @@
 
 ---
 ## 🧑‍💻 About Me
-## 🧑‍💻 About Me
 
 <table align="center">
 <tr>
@@ -57,7 +56,6 @@
 
 </tr>
 </table>
-
 
 <!-- ============ TECH STACK ============ -->
 
