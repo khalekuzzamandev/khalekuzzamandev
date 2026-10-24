@@ -30,32 +30,7 @@
 
 ---
 ## 🧑‍💻 About Me
-
-<table align="center">
-<tr>
-
-<td width="65%" valign="top">
-
-💼 <strong>Currently Working:</strong> Full Stack Developer Intern at <strong>BD Calling</strong>, building full-stack web applications with React.js, Next.js, Node.js, Express.js, SQL, PostgreSQL, and Prisma.
-
-📚 <strong>Learning:</strong> Backend Development, Authentication, Database Design & System Design.
-
-💻 <strong>Ask Me About:</strong> React.js • Next.js • Node.js • Express.js • MongoDB • PostgreSQL • REST APIs • JWT.
-
-🎯 <strong>Focus:</strong> Clean UI • Performance • Scalable Applications • Real-World Development.
-
-🚀 <strong>Goal:</strong> Continuously improving my development skills by working on real-world projects and building production-ready applications.
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Coding"/>
-
-</td>
-
-</tr>
-</table>
+<p align="center"> <img src="./assets/about.svg" alt="About Me: Full Stack Developer Intern at BD Calling. Learning backend development, authentication, database design and system design. Focus on clean UI, performance and scalable applications." width="100%"/> </p> <br/> <!-- ============ TECH STACK ============ -->
 
 ---
 
