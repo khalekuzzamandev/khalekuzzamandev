@@ -96,12 +96,22 @@
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=khalekuzzamandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3&text_color=c9d1d9" alt="GitHub Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalekuzzamandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=khalekuzzamandev&theme=tokyonight&hide_border=true&background=0d1117&ring=C026D3&fire=C026D3&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=aaaaaa" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/khalekuzzamandev/khalekuzzamandev/output/github-snake-dark.svg" alt="Contribution Snake" width="100%"/> </p> <br/>
 
 
+
 ## 📫 Contact Me
 <p align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muradvcv@gmail.com&su=Hello%20Khalekuzzaman&body=Hi%20I%20want%20to%20contact%20you" target="_blank">
   <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<a href="https://linkedin.com/in/muradvcv" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/khalekuzzamanMurad" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
 </p>
 
 ---
