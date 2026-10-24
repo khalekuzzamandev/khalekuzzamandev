@@ -97,14 +97,16 @@
 
 
 
+
 ## 📫 Contact Me
+
 <p align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muradvcv@gmail.com&su=Hello%20Khalekuzzaman&body=Hi%20I%20want%20to%20contact%20you" target="_blank">
   <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/muradvcv" target="_blank">
+<a href="https://www.linkedin.com/in/khalekuzzamandev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -112,7 +114,12 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
+<a href="https://discord.com/users/1477922424640114759" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </p>
+
 
 ---
 
