@@ -91,7 +91,7 @@
 </p>
 
 ## 📊 Current Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=khalekuzzamandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3&text_color=c9d1d9" alt="GitHub Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalekuzzamandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=khalekuzzamandev&theme=tokyonight&hide_border=true&background=0d1117&ring=C026D3&fire=C026D3&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=aaaaaa" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalekuzzamandev&bg_color=0d1117&color=00F7FF&line=C026D3&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/> </p> <br/> <!-- ============ FEATURED PROJECTS ============ -->
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=khalekuzzamandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3&text_color=c9d1d9" alt="GitHub Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalekuzzamandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=khalekuzzamandev&theme=tokyonight&hide_border=true&background=0d1117&ring=C026D3&fire=C026D3&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=aaaaaa" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalekuzzamandev&bg_color=0d1117&color=00F7FF&line=C026D3&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/> </p> <br/> <!-- 
 
 ## 💻 Coding Profiles
 
@@ -107,6 +107,7 @@
 
 
 ## 📫 Contact Me
+
 <p align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muradvcv@gmail.com&su=Hello%20Khalekuzzaman&body=Hi%20I%20want%20to%20contact%20you" target="_blank">
@@ -123,7 +124,6 @@
 
 </p>
 
----
 
 📫 Let's Connect
 
