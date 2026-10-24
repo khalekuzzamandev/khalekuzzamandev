@@ -1,422 +1,133 @@
-<!-- ============ HEADER ============ -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0891B2,50:6D28D9,100:C026D3&text=Khalekuzzaman%20Murad&fontColor=ffffff&fontSize=46&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Bangladesh&descSize=18&descAlignY=64&animation=fadeIn" alt="Header"/>
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;React+%7C+Next.js+%7C+Node.js;Clean+UI.+Scalable+Backend.;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://khalekuzzaman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/muradvcv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muradvcv@gmail.com&su=Hello%20Khalekuzzaman"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.facebook.com/khalekuzzamanMurad"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <img src="https://komarev.com/ghpvc/?username=khalekuzzamandev&label=Profile+Views&style=for-the-badge&color=6D28D9&labelColor=0d1117" alt="Profile Views"/>
-</p>
-
-<br/>
-
-<!-- ============ ABOUT ============ -->
-## ⚡ About Me
-
-```ts
-const developer = {
-  name: "Khalekuzzaman Murad",
-  role: "Full Stack Developer Intern @ BD Calling",
-  location: "Bangladesh 🇧🇩",
-  stack: ["React", "Next.js", "Node.js", "Express", "PostgreSQL", "Prisma"],
-  currentlyLearning: ["Backend Development", "Authentication", "Database Design", "System Design"],
-  focus: ["Clean UI", "Performance", "Scalable Applications"],
-  motto: "Code. Build. Learn. Repeat.",
-};
-```
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="left">
 
-### 💼 Currently
-Working as a **Full Stack Developer Intern at BD Calling**, building full-stack web apps with **React.js, Next.js, Node.js, Express.js, SQL, PostgreSQL and Prisma**.
+<a href="https://khalekuzzaman.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-0891B2?style=for-the-badge&logo=code&logoColor=581C87&labelColor=581C87" alt="Explore My Portfolio"/>
+</a>
 
 </td>
-<td width="50%" valign="top">
 
-### 🎯 Goal
-Keep growing by shipping **real-world projects** and building **production-ready applications** with clean architecture and great user experience.
+<td align="right">
+
+<img src="https://komarev.com/ghpvc/?username=khalekuzzamandev&label=PROFILE+VIEWS&style=for-the-badge&color=ff00ff&labelColor=0d1117" alt="Profile Views"/>
 
 </td>
 </tr>
 </table>
 
-> 💬 **Ask me about:** React.js · Next.js · Node.js · Express.js · MongoDB · PostgreSQL · REST APIs · JWT
 
-<br/>
+<p align="center">
+  <img src="https://i.ibb.co.com/zhpgkjfv/banne.png" alt="Banner" width="1000">
+</p>
 
-<!-- ============ TECH STACK ============ -->
-## 🛠️ Tech Stack
+<h1 align="center">Hi 👋, I'm Khalekuzzaman Murad</h1>
+<h3 align="center">🚀  Full Stack Developer | Bangladesh</h3>
 
-<table align="center" width="90%">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+</p>
+
+---
+## 🧑‍💻 About Me
+
+<table align="center">
 <tr>
 
-<td width="30%" align="center" valign="top">
+<td width="65%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="245" height="1" alt=""/>
+💼 <strong>Currently Working:</strong> Full Stack Developer Intern at <strong>BD Calling</strong>, building full-stack web applications with React.js, Next.js, Node.js, Express.js, SQL, PostgreSQL, and Prisma.
 
-<h3>🎨 Frontend</h3>
+📚 <strong>Learning:</strong> Backend Development, Authentication, Database Design & System Design.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="Frontend 1"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend 2"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/HeroUI-0F172A?style=flat-square&logo=react&logoColor=white" alt="HeroUI"/>
+💻 <strong>Ask Me About:</strong> React.js • Next.js • Node.js • Express.js • MongoDB • PostgreSQL • REST APIs • JWT.
 
-</td>
+🎯 <strong>Focus:</strong> Clean UI • Performance • Scalable Applications • Real-World Development.
 
-<td width="30%" align="center" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="245" height="1" alt=""/>
-
-<h3>⚙️ Backend &amp; Database</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend 1"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" alt="Backend 2"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Better_Auth-6366F1?style=flat-square&logo=auth0&logoColor=white" alt="Better Auth"/>
+🚀 <strong>Goal:</strong> Continuously improving my development skills by working on real-world projects and building production-ready applications.
 
 </td>
 
-<td width="30%" align="center" valign="top">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="245" height="1" alt=""/>
-
-<h3>🧰 Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools 1"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=vercel,postman&theme=dark" alt="Tools 2"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Coding"/>
 
 </td>
 
 </tr>
 </table>
 
+---
+
+## 💻 Technologies
+<p align="center">
+
+<!-- Row 1 - 5 -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <br/>
 
-<!-- ============ STATS ============ -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khalekuzzamandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalekuzzamandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khalekuzzamandev&theme=tokyonight&hide_border=true&background=0d1117&ring=C026D3&fire=C026D3&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=aaaaaa" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalekuzzamandev&bg_color=0d1117&color=00F7FF&line=C026D3&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
+<!-- Row 2 - 4 -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HeroUI-0F172A?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <br/>
 
-<!-- ============ FEATURED PROJECTS ============ -->
-## 🚀 Featured Projects
+<!-- Row 3 - 3 -->
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<br/>
 
-<!--
-  TODO: Replace the placeholders below with your real repos.
-  Format: https://github-readme-stats.vercel.app/api/pin/?username=khalekuzzamandev&repo=YOUR_REPO
--->
+<!-- Row 4 - 2 -->
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logo=auth0&logoColor=white" />
+<br/>
+
+</p>
+
+## 📊 Current Stats
 <p align="center">
-  <a href="https://github.com/khalekuzzamandev/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalekuzzamandev&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3" alt="Project 1"/>
+  <img src="https://streak-stats.demolab.com/?user=khalekuzzamandev&theme=tokyonight&hide_border=true&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&dates=aaaaaa" />
+</p>
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/KHALEKUZZAMAN/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-C56A00?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=C56A00" alt="LeetCode"/>
   </a>
-  <a href="https://github.com/khalekuzzamandev/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalekuzzamandev&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3" alt="Project 2"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- ============ CODING PROFILES ============ -->
-## 🧩 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/KHALEKUZZAMAN/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/profile/muradvcv"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-</p>
-
-<br/>
-
-<!-- ============ CONTACT ============ -->
-## 📫 Let's Connect
-
-<p align="center">
-  Open to collaboration, internships and exciting projects.<br/>
-  Feel free to reach out via any link above. 🤝
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=C026D3&center=true&vCenter=true&width=500&lines=%22Code.+Build.+Learn.+Repeat.%22" alt="Quote"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:C026D3,50:6D28D9,100:0891B2&section=footer" alt="Footer"/>****
-<!-- ============ ABOUT ============ -->
-## ⚡ About Me
-
-```ts
-const developer = {
-  name: "Khalekuzzaman Murad",
-  role: "Full Stack Developer Intern @ BD Calling",
-  location: "Bangladesh 🇧🇩",
-  stack: ["React", "Next.js", "Node.js", "Express", "PostgreSQL", "Prisma"],
-  currentlyLearning: ["Backend Development", "Authentication", "Database Design", "System Design"],
-  focus: ["Clean UI", "Performance", "Scalable Applications"],
-  motto: "Code. Build. Learn. Repeat.",
-};
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Currently
-Working as a **Full Stack Developer Intern at BD Calling**, building full-stack web apps with **React.js, Next.js, Node.js, Express.js, SQL, PostgreSQL and Prisma**.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Goal
-Keep growing by shipping **real-world projects** and building **production-ready applications** with clean architecture and great user experience.
-
-</td>
-</tr>
-</table>
-
-> 💬 **Ask me about:** React.js · Next.js · Node.js · Express.js · MongoDB · PostgreSQL · REST APIs · JWT
-
-<br/>
-
-<!-- ============ TECH STACK ============ -->
-## 🛠️ Tech Stack
-
-<table align="center" width="100%">
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-<h3>🎨 Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="Frontend 1"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend 2"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/HeroUI-0F172A?style=flat-square&logo=react&logoColor=white" alt="HeroUI"/>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>⚙️ Backend &amp; Database</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend 1"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" alt="Backend 2"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Better_Auth-6366F1?style=flat-square&logo=auth0&logoColor=white" alt="Better Auth"/>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-<h3>🧰 Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools 1"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=vercel,postman&theme=dark" alt="Tools 2"/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- ============ STATS ============ -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khalekuzzamandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalekuzzamandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khalekuzzamandev&theme=tokyonight&hide_border=true&background=0d1117&ring=C026D3&fire=C026D3&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=aaaaaa" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalekuzzamandev&bg_color=0d1117&color=00F7FF&line=C026D3&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<br/>
-
-<!-- ============ FEATURED PROJECTS ============ -->
-## 🚀 Featured Projects
-
-<!--
-  TODO: Replace the placeholders below with your real repos.
-  Format: https://github-readme-stats.vercel.app/api/pin/?username=khalekuzzamandev&repo=YOUR_REPO
--->
-<p align="center">
-  <a href="https://github.com/khalekuzzamandev/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalekuzzamandev&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/khalekuzzamandev/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalekuzzamandev&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3" alt="Project 2"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/muradvcv" target="_blank">
+    <img src="https://img.shields.io/badge/HACKERRANK-1B5E20?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1B5E20" alt="HackerRank"/>
   </a>
 </p>
 
-<br/>
 
-<!-- ============ CODING PROFILES ============ -->
-## 🧩 Coding Profiles
-
+## 📫 Contact Me
 <p align="center">
-  <a href="https://leetcode.com/u/KHALEKUZZAMAN/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/profile/muradvcv"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=muradvcv@gmail.com&su=Hello%20Khalekuzzaman&body=Hi%20I%20want%20to%20contact%20you" target="_blank">
+  <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/muradvcv" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/khalekuzzamanMurad" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
 </p>
 
-<br/>
-
-<!-- ============ CONTACT ============ -->
-## 📫 Let's Connect
+---
 
 <p align="center">
-  Open to collaboration, internships and exciting projects.<br/>
-  Feel free to reach out via any link above. 🤝
+  💡 "Code. Build. Learn. Repeat." 🚀
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=C026D3&center=true&vCenter=true&width=500&lines=%22Code.+Build.+Learn.+Repeat.%22" alt="Quote"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:C026D3,50:6D28D9,100:0891B2&section=footer" alt="Footer"/>
-
-<!-- ============ ABOUT ============ -->
-## ⚡ About Me
-
-```ts
-const developer = {
-  name: "Khalekuzzaman Murad",
-  role: "Full Stack Developer Intern @ BD Calling",
-  location: "Bangladesh 🇧🇩",
-  stack: ["React", "Next.js", "Node.js", "Express", "PostgreSQL", "Prisma"],
-  currentlyLearning: ["Backend Development", "Authentication", "Database Design", "System Design"],
-  focus: ["Clean UI", "Performance", "Scalable Applications"],
-  motto: "Code. Build. Learn. Repeat.",
-};
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Currently
-Working as a **Full Stack Developer Intern at BD Calling**, building full-stack web apps with **React.js, Next.js, Node.js, Express.js, SQL, PostgreSQL and Prisma**.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Goal
-Keep growing by shipping **real-world projects** and building **production-ready applications** with clean architecture and great user experience.
-
-</td>
-</tr>
-</table>
-
-> 💬 **Ask me about:** React.js · Next.js · Node.js · Express.js · MongoDB · PostgreSQL · REST APIs · JWT
-
-<br/>
-
-<!-- ============ TECH STACK ============ -->
-## 🛠️ Tech Stack
-
-<p align="center">
-  <b>Frontend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend"/>
-  <br/><br/>
-  <b>Backend &amp; Database</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&theme=dark" alt="Backend"/>
-  <br/><br/>
-  <b>Tools</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" alt="Tools"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/HeroUI-0F172A?style=flat-square&logo=react&logoColor=white" alt="HeroUI"/>
-  <img src="https://img.shields.io/badge/Better_Auth-6366F1?style=flat-square&logo=auth0&logoColor=white" alt="Better Auth"/>
-</p>
-
-<br/>
-
-<!-- ============ STATS ============ -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khalekuzzamandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalekuzzamandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khalekuzzamandev&theme=tokyonight&hide_border=true&background=0d1117&ring=C026D3&fire=C026D3&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=aaaaaa" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalekuzzamandev&bg_color=0d1117&color=00F7FF&line=C026D3&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<br/>
-
-<!-- ============ FEATURED PROJECTS ============ -->
-## 🚀 Featured Projects
-
-<!--
-  TODO: Replace the placeholders below with your real repos.
-  Format: https://github-readme-stats.vercel.app/api/pin/?username=khalekuzzamandev&repo=YOUR_REPO
--->
-<p align="center">
-  <a href="https://github.com/khalekuzzamandev/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalekuzzamandev&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/khalekuzzamandev/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalekuzzamandev&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=C026D3" alt="Project 2"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- ============ CODING PROFILES ============ -->
-## 🧩 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/KHALEKUZZAMAN/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/profile/muradvcv"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
-</p>
-
-<br/>
-
-<!-- ============ CONTACT ============ -->
-## 📫 Let's Connect
-
-<p align="center">
-  Open to collaboration, internships and exciting projects.<br/>
-  Feel free to reach out via any link above. 🤝
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=C026D3&center=true&vCenter=true&width=500&lines=%22Code.+Build.+Learn.+Repeat.%22" alt="Quote"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:C026D3,50:6D28D9,100:0891B2&section=footer" alt="Footer"/>
+---
