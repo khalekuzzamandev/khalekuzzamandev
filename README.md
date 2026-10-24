@@ -1,3 +1,19 @@
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Abdul%20Ahad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=58&descSize=18" alt="header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=13B9FD&center=true&vCenter=true&width=550&lines=Building+beautiful+%26+performant+mobile+apps;Flutter+%7C+Dart+%7C+Firebase;Currently+learning+Backend+Development;Based+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdulahad2024&label=Profile+Views&color=0e75b6&style=flat-square)
+
+</div>
+
 <table width="100%">
 <tr>
 <td align="left">
