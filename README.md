@@ -124,7 +124,6 @@
 
 ---
 
-<p align="center">
-  💡 "Code. Build. Learn. Repeat." 🚀
-</p>
+📫 Let's Connect
+<p align="center"> Open to collaboration, internships and exciting projects.<br/> Feel free to reach out via any link above. 🤝 </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=C026D3&center=true&vCenter=true&width=500&lines=%22Code.+Build.+Learn.+Repeat.%22" alt="Quote"/> </p> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:C026D3,50:6D28D9,100:0891B2&section=footer" alt="Footer"/>
 ---
