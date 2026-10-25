@@ -42,7 +42,7 @@
 
 💻 <strong>Ask Me About:</strong> React.js • Next.js • Node.js • Express.js • MongoDB • PostgreSQL • REST APIs • JWT.
 
-🎯 <strong>Focus:</strong> Clean UI • Performance • Scalable Applications • Real-World Development.
+🎯 <strong>Focus:</strong> • Performance • Scalable Applications • Real-World Development.
 
 🚀 <strong>Goal:</strong> Continuously improving my development skills by working on real-world projects and building production-ready applications.
 
